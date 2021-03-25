@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<krankenhaus>
+<name>katerinhospital</name>
+<patient>
+    
+    <name>theodor haus</name>
+    <temperatur>35</temperatur>
+    <zimmer>22</zimmer>
+    <krankenhaus>
+    <name>klinikludwigsburg</name>
+<patient>
+    <name>carl johnson</name>
+    <temperatur>41</temperatur
+    <zimmer>21</zimmer>
+    <krankenhaus>
+    <name>hospitalstuttgart</name>
+<patient>
+    <name>anthony müller</name>
+    <temperatur>52>/temperatur>
+    <zimmer>76</zimmer>
