@@ -1,0 +1,25 @@
+.box {
+    background-image: url(../pics/kochen-ist-liebe-web.jpg);
+    padding:300px 3px;
+    background-size: cover;
+    background-position: center;
+    align-items: left;
+}
+
+h1{
+
+    color: Black;
+    font-size: 3em;
+    align-items: left;
+    text-decoration: underline;
+}
+
+h2{
+    color:black;
+    font-size: 4em;
+    text-decoration: underline;
+}
+h3{
+    color: black;
+    font-size: 3em;
+}

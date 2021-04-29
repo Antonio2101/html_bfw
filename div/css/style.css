@@ -1,0 +1,36 @@
+.body {
+    float: left;
+    height: 98vh;
+    width:  98vw;
+}
+
+.head {
+    float: left;
+    height: 15%;
+    width: 100%;
+    background-color: brown;
+    
+}
+
+.center {
+    float: left;
+    height: 75%;
+    width: 100%;
+    background-color:blue;
+}
+
+.footer {
+    float: left;
+    height: 10%;
+    width: 100%;
+    background-color: mediumseagreen;
+
+}
+
+.menu {
+    float: left;
+    height: 100%;
+    width: 20%;
+    background-color: gray;
+    outline: solid;
+}
